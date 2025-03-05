@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Inter+IBM Plex Mono",
+  "previewText": "Inter With Plex Mono",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/voiceroy/Fonts/raw/refs/heads/main/Inter/ttf/Inter-Black.ttf",
+    "ggsans-Bold": "https://www.github.com/voiceroy/Fonts/raw/refs/heads/main/Inter/ttf/Inter-Bold.ttf",
+    "ggsans-BoldItalic": "https://www.github.com/voiceroy/Fonts/raw/refs/heads/main/Inter/ttf/Inter-BoldItalic.ttf",
+    "ggsans-ExtraBold": "https://www.github.com/voiceroy/Fonts/raw/refs/heads/main/Inter/ttf/Inter-ExtraBold.ttf",
+    "ggsans-ExtraBoldItalic": "https://www.github.com/voiceroy/Fonts/raw/refs/heads/main/Inter/ttf/Inter-BlackItalic.ttf",
+    "ggsans-Medium": "https://www.github.com/voiceroy/Fonts/raw/refs/heads/main/Inter/ttf/Inter-Medium.ttf",
+    "ggsans-MediumItalic": "https://www.github.com/voiceroy/Fonts/raw/refs/heads/main/Inter/ttf/Inter-MediumItalic.ttf",
+    "ggsans-Normal": "https://www.github.com/voiceroy/Fonts/raw/refs/heads/main/Inter/ttf/Inter-Regular.ttf",
+    "ggsans-NormalItalic": "https://www.github.com/voiceroy/Fonts/raw/refs/heads/main/Inter/ttf/Inter-Italic.ttf",
+    "ggsans-Semibold": "https://www.github.com/voiceroy/Fonts/raw/refs/heads/main/Inter/ttf/Inter-SemiBold.ttf",
+    "ggsans-SemiboldItalic": "https://www.github.com/voiceroy/Fonts/raw/refs/heads/main/Inter/ttf/Inter-SemiBoldItalic.ttf",
+    "NotoSans-Bold": "https://cdn.jsdelivr.net/gh/notofonts/notofonts.github.io/fonts/NotoSans/full/ttf/NotoSans-Bold.ttf",
+    "NotoSans-ExtraBold": "https://cdn.jsdelivr.net/gh/notofonts/notofonts.github.io/fonts/NotoSans/full/ttf/NotoSans-ExtraBold.ttf",
+    "NotoSans-Medium": "https://cdn.jsdelivr.net/gh/notofonts/notofonts.github.io/fonts/NotoSans/full/ttf/NotoSans-Medium.ttf",
+    "NotoSans-Normal": "https://cdn.jsdelivr.net/gh/notofonts/notofonts.github.io/fonts/NotoSans/full/ttf/NotoSans-Regular.ttf",
+    "NotoSans-NormalItalic": "https://cdn.jsdelivr.net/gh/notofonts/notofonts.github.io/fonts/NotoSans/full/ttf/NotoSans-Italic.ttf",
+    "NotoSans-Semibold": "https://cdn.jsdelivr.net/gh/notofonts/notofonts.github.io/fonts/NotoSans/full/ttf/NotoSans-SemiBold.ttf",
+    "ggmono-Normal": "https://github.com/voiceroy/Fonts/raw/refs/heads/main/IBM%20Plex%20Mono/ttf/IBMPlexMono-Regular.ttf"
+  }
+}
